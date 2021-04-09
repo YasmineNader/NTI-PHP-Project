@@ -1,0 +1,147 @@
+/* navigation bar */
+body{
+    padding: 0px;
+    margin: 0px;
+}
+nav {
+    height: 65px;
+    background: linear-gradient(rgba(80, 80, 80, 0.5), rgba(0, 0, 0, 0.5));
+}
+
+.nav-link {
+    color: white !important;
+}
+
+/* about section */
+
+.about_par {
+    text-align: justify;
+}
+
+/* footer section */
+
+footer {
+    height: 50px;
+}
+
+/* reservation form */
+
+.reservebody {
+    background: url(../images/reserveimg.jpg) no-repeat;
+    background-size: cover;
+}
+
+select {
+    height: 60px;
+}
+
+.reservetitle {
+    margin-top: 30px;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.reserveform {
+    margin-top: 100px;
+    background-color: #0006;
+    padding: 35px;
+    border-radius: 40px;
+    box-sizing: border-box;
+}
+
+/* login form */
+
+.logintitle {
+    margin-top: 190px;
+    font-style: italic;
+}
+
+.loginform {
+    margin-top: 100px;
+    background-color: #0009;
+    padding: 40px;
+    border-radius: 40px;
+    box-sizing: border-box;
+    width: 500px;
+    margin: auto;
+}
+
+.loginbody {
+    background: url(../images/loginimage.jpg)no-repeat;
+    background-size: cover;
+}
+
+/* login form */
+
+.signupbody {
+    background: url(../images/signupimg.jpg)no-repeat;
+    background-size: cover;
+}
+
+.signuptitle {
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.signupform {
+    margin-top: 100px;
+    background-color: #0007;
+    padding: 40px;
+    border-radius: 40px;
+    box-sizing: border-box;
+    width: 500px;
+    margin: auto;
+}
+
+/* contact section */
+
+.contactbanner {
+    background: url(../images/contactimg.jpg)no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.info {
+    line-height: 3.5;
+}
+
+/* footer */
+
+footer {
+    height: 70px;
+    background: linear-gradient(rgba(80, 80, 80, 0.5), rgba(0, 0, 0, 0.5));
+}
+
+.map {
+    height: 500px;
+}
+
+.list-group-item {
+    background: linear-gradient( 45deg, black, #5b5b5b);
+}
+
+.list-group-item a {
+    color: white;
+    text-decoration: none;
+}
+
+.error {
+    color: #ff3737;
+}
+
+.adminnav {
+    background-color: gray;
+    
+}
+
+.imageadmin {
+    width: 200px;
+    height: 100px;
+}
+.carouselimg{
+    height: 400px;
+    width: 100%!important;
+   
+}
